@@ -17,3 +17,13 @@ No rock / tree
 FREEZE Enemy
 No Brush
 Istant Hit 
+
+
+http://puu.sh/Ar5nI/6ae276917c.png
+
+http://puu.sh/Ar5oD/f43ac73f85.png
+
+please contact on my discord for more information
+
+raffybest94V01#7037
+
