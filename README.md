@@ -63,6 +63,8 @@ all payments will be accepted with paypal payment method with the option "friend
 
 I have been programming since 2008 and I started to develop around 2012, entering the csgo scene in 2013 and then continuing until today 2018 adding also pubg to my support list ( you can search my nickname on google, you can find me in this forum, elitepvpers, inforge, unknowcheat, xda, mpgh, reddit ) 
 
+It is strictly forbidden to share your login data with other people, do not try it, the program has IP protection and HWID you can see yourself once you log in
+
 ----------------------------------------------------------------
 
 Warranty : 
