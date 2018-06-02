@@ -41,9 +41,9 @@ the price is :
 
 40€ / Lifetime ( for life means all the updates that I will make inside the loader )
 
-http://puu.sh/Ar5nI/6ae276917c.png
+![alt text](http://puu.sh/Ar5nI/6ae276917c.png)  
 
-http://puu.sh/Ar5oD/f43ac73f85.png
+![alt text](http://puu.sh/Ar5oD/f43ac73f85.png)
 
 please contact on my discord for buy
 
