@@ -51,6 +51,8 @@ raffybest94V01#7037
 
 http://discord.gg/WM7ey36
 
+--------------------------------------------------------------
+
 TOS :
 
 I am not responsible for any kind of ban ( by deathcam report / manual ban / vac ban etc... ) 
@@ -60,6 +62,8 @@ the program is connected to my server so when it is detected I will remotely blo
 all payments will be accepted with paypal payment method with the option "friends and family" ( Donation ) 
 
 I have been programming since 2008 and I started to develop around 2012, entering the csgo scene in 2013 and then continuing until today 2018 adding also pubg to my support list ( you can search my nickname on google, you can find me in this forum, elitepvpers, inforge, unknowcheat, xda, mpgh, reddit ) 
+
+----------------------------------------------------------------
 
 Warranty : 
 
