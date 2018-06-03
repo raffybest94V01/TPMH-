@@ -78,6 +78,7 @@ if the program had some problem or it would not work on some types of pc it will
 random problems known and solutions :
 
 Q : why get crash when the game is start ? 
+
 A : why pubg game It was developed with the feet, to solve this problem in the spawn area disable the render character
 
 ![alt text](https://i.imgur.com/vGvmzqoh.jpg)  
