@@ -72,3 +72,13 @@ Warranty :
 for the 20 € / update mode will have a 48-hour warranty, if in this period of time pubg updates and no longer works the user has access to the next update of cheat for free
 
 if the program had some problem or it would not work on some types of pc it will be refunded 100% of the whole sum
+
+----------------------------------------------------------------
+
+random problems known and solutions :
+
+Q : why get crash when the game is start ? 
+A : why pubg game It was developed with the feet, to solve this problem in the spawn area disable the render character
+
+![alt text](https://imgur.com/a/CbWiPCW)  
+
