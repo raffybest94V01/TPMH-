@@ -1,37 +1,49 @@
 # TPMH-
 this is my loader for PUBG game, Features : 
 
-no recoil 70 90 100%
+no recoil 70% / 100% with istant it
 
-no grass or no ground
+no bullet drop 500M or 1000M
 
-color Player 
+color Player ( red, blue, violed, all color )
 
-rain or sun
+Remove Grass or ALL Ground is like a chees ( No Ground or Pixel ground ) 
 
-Death box color
+Dark Vision ( you can choise on island maps or desert maps )
 
-remove useless sound
+Fast Loot
 
-fast loot
+Remove Tree
 
-desert map night vision
+Box enemy is colored
 
-island map night vision
+remove wall on first floor ( house, build etc... )
 
-throught door
+Remove Stone
 
-no smoke / flash 
+Fast Switch Weapon
 
-better vision
+Cloud Rain
 
-No rock / tree
+Fast Loot Enemy box
 
-FREEZE Enemy
+Remove Useless Sound ( like the sound of rain, drop in plane, the redzone bomb when hit the ground etc... )
 
-No Brush
+Freeze Hit ( when you hit the enemy he is freeze, can't move )
 
-Istant Hit 
+Cloudy
+
+Remove Smoke / Flash
+
+House / Object is all PIXEL GREY ( like a No Ground features ) 
+
+Remove wall ( this is exatly same the remove wall on first floor but for all floot, i don't sugger to select this ) 
+
+Skin Gun ( is only on client side, only you can see the skin ) 
+
+
+the functions mentioned above may be modified, added or removed based on the pubg update.
+
 
 ---------------------------------------------------------------
 
