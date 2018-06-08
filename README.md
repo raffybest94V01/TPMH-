@@ -57,11 +57,15 @@ the price is :
 
 ![alt text](http://puu.sh/Ar5oD/f43ac73f85.png)
 
-please contact on my discord for buy
+please contact on my discord for buy or join in riot.im chat 
 
 raffybest94V01#7037
 
-http://discord.gg/WM7ey36
+https://riot.im/app/#/group/+raffyproject:matrix.org 
+
+you need riot.im program and sing up for join, you can found here 
+
+https://riot.im/desktop.html
 
 --------------------------------------------------------------
 
